@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "146023951897",
+    "firebase_url": "https://travelrecapp-45da6.firebaseio.com",
+    "project_id": "travelrecapp-45da6",
+    "storage_bucket": "travelrecapp-45da6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146023951897:android:ab806c3ed64f8c2ec00488",
+        "android_client_info": {
+          "package_name": "com.travelrecapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "146023951897-ips6pij38u0r393097k598gc1frn30ln.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.travelrecapp",
+            "certificate_hash": "3bdc70f0244ac5351bbc5098aab0c23deef93cc6"
+          }
+        },
+        {
+          "client_id": "146023951897-0ac8kvsafujd2m2ns845squor2aju19a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx-mczG-ygCAh9gr4gz5LL0Mj4vzbUc4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "146023951897-0ac8kvsafujd2m2ns845squor2aju19a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
